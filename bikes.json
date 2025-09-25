@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Trek Marlin 7",
+    "category": "MTB",
+    "description": "Horský bike pro začátečníky i pokročilé.",
+    "price": "23 990 Kč",
+    "image": "pics/bike1.png"
+  },
+  {
+    "id": 2,
+    "name": "Specialized Rockhopper",
+    "category": "MTB",
+    "description": "Lehký a spolehlivý hardtail.",
+    "price": "19 490 Kč",
+    "image": "pics/bike2.png"
+  },
+  {
+    "id": 3,
+    "name": "Canyon Roadlite",
+    "category": "Silniční",
+    "description": "Fitness kolo ideální na silnici i cyklostezku.",
+    "price": "27 500 Kč",
+    "image": "pics/bike3.png"
+  },
+  {
+    "id": 4,
+    "name": "Gazelle CityGo",
+    "category": "Městské",
+    "description": "Stylové kolo pro každodenní jízdu po městě.",
+    "price": "15 990 Kč",
+    "image": "pics/bike4.png"
+  },
+    {
+    "id": 5,
+    "name": "Trek Marlin 7",
+    "category": "MTB",
+    "description": "Horský bike pro začátečníky i pokročilé.",
+    "price": "23 990 Kč",
+    "image": "pics/bike1.png"
+  },
+  {
+    "id": 6,
+    "name": "Specialized Rockhopper",
+    "category": "MTB",
+    "description": "Lehký a spolehlivý hardtail.",
+    "price": "19 490 Kč",
+    "image": "pics/bike2.png"
+  },
+  {
+    "id": 7,
+    "name": "Canyon Roadlite",
+    "category": "Silniční",
+    "description": "Fitness kolo ideální na silnici i cyklostezku.",
+    "price": "27 500 Kč",
+    "image": "pics/bike3.png"
+  },
+  {
+    "id": 8,
+    "name": "Gazelle CityGo",
+    "category": "Městské",
+    "description": "Stylové kolo pro každodenní jízdu po městě.",
+    "price": "15 990 Kč",
+    "image": "pics/bike4.png"
+  }
+]
